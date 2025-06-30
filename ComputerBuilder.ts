@@ -1,5 +1,5 @@
 
-import { Computer } from "../Computer";
+import { Computer } from "./Computer";
 
 export interface ComputerBuilder {
     reset(): void;
