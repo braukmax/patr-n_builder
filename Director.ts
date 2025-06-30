@@ -1,5 +1,5 @@
 
-import { ComputerBuilder } from "../ComputerBuilder";
+import { ComputerBuilder } from "./ComputerBuilder";
 
 export class Director {
     private builder: ComputerBuilder;
