@@ -1,6 +1,6 @@
 
-import { Computer } from "../Computer";
-import { ComputerBuilder } from "../ComputerBuilder";
+import { Computer } from "./Computer";
+import { ComputerBuilder } from "./ComputerBuilder";
 
 export class GamingComputerBuilder implements ComputerBuilder {
     private computer: Computer;
