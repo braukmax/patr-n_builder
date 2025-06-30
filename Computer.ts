@@ -1,5 +1,5 @@
 
-// Product
+// Producto
 export class Computer {
     cpu: string = "";
     ram: number = 0;
